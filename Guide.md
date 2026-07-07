@@ -1,7 +1,7 @@
   # Backend Interview — Interviewer Guide
 
   Question bank + rubric for the backend loop. Keep this rotation fresh so
-  answers don't leak between candidates. Wiz backend panel, screen #2.
+  answers don't leak between candidates. Wiz.io backend panel, screen #2.
 
   ## Q1. URL shortener (warm-up, 10 min)
 
